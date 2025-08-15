@@ -139,11 +139,6 @@ Press <kbd>X</kbd> to win. Or press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>F</
   class="ma0 w-75"
 >}}
 
-### Hidden Text
-{{< details summary="Hidden Content - Click to expand" >}}
-**Hidden text** will be revealed only on click
-{{< /details >}}
-
 ### Instagram Content
 {{< instagram CxOWiQNP2MO >}}
 
