@@ -142,15 +142,6 @@ Press <kbd>X</kbd> to win. Or press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>F</
 ### Instagram Content
 {{< instagram CxOWiQNP2MO >}}
 
-### QRCode 
-{{< qr text="https://gohugo.io" />}}
-
-### Twitter (x)
-{{< x user="SanDiegoZoo" id="1453110110599868418" >}}
-
-### Youtube Video
-{{< youtube 0RKpf3rK57I >}}
-
 
 
 
